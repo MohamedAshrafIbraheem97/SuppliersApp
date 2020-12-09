@@ -1,6 +1,6 @@
 # SuppliersApp
-This is a Desktop Application using C# that handles suppliers work and money with others (Still under Development)
-Design: flat UI from Microsoft no addional framworks
-Database: stored procedure from MS SQL
+This is a Desktop Application using C# that handles suppliers work and money with others (Still under Development)</br>
+Design: flat UI from Microsoft no addional framworks </br>
+Database: stored procedure from MS SQL</br>
 
 <img src="Images/Login.PNG">
