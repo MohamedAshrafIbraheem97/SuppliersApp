@@ -1,0 +1,27 @@
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\bin\Debug\theProject.exe.config
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\bin\Debug\theProject.exe
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\bin\Debug\theProject.pdb
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.csprojResolveAssemblyReference.cache
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.Properties.Resources.resources
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.csproj.GenerateResource.Cache
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.exe
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.pdb
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.mainForm.resources
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.fawaterOmalaaForm.resources
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.newRecieptForm.resources
+c:\users\m7mdm\documents\visual studio 2015\Projects\theProject\theProject\obj\Debug\theProject.loginForm.resources
+E:\aboElkher\theProject\theProject\bin\Debug\theProject.exe.config
+E:\aboElkher\theProject\theProject\bin\Debug\theProject.exe
+E:\aboElkher\theProject\theProject\bin\Debug\theProject.pdb
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.addNewCustomerForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.addProductForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.fawaterOmalaaForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.firstUserControl.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.mainForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.loginForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.newRecieptForm.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.Properties.Resources.resources
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.csproj.GenerateResource.Cache
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.exe
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.pdb
+E:\aboElkher\theProject\theProject\obj\Debug\theProject.csprojResolveAssemblyReference.cache
